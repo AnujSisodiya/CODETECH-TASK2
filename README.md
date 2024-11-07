@@ -1,8 +1,13 @@
 Name : ANUJ SISODIYA
+
 Compnay : CODETECH IT SOLUTION
+
 ID : CT6WDS1970
+
 Domain : MACHINE LEARNING
+
 Duration : September to November 2024
+
 Mentor : Neela Santhosh Kumar
 
 # Linear-Regression-Model-for-House-Price-Prediction
